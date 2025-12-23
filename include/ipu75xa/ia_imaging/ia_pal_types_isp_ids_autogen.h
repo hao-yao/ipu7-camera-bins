@@ -99,6 +99,7 @@ typedef enum
     ia_pal_uuid_isp_outputscaler_2_0_a = 6800,
     ia_pal_uuid_isp_pafstatistics_1_2 = 44308,
     ia_pal_uuid_isp_pext_1_0 = 43213,
+    ia_pal_uuid_isp_remosaic_1_0 = 8198,
     ia_pal_uuid_isp_rgb_ir_2_0 = 14488,
     ia_pal_uuid_isp_rgbs_grid_1_1 = 15021,
     ia_pal_uuid_isp_tnr_scale_lb = 33723,
