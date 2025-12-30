@@ -60,7 +60,7 @@ typedef enum
     ia_pal_uuid_isp_glim_2_0 = 36029,
     ia_pal_uuid_isp_gltm_2_0 = 54721,
     ia_pal_uuid_isp_gmv_statistics_1_0 = 61146,
-    ia_pal_uuid_isp_imv = 33331,
+    ia_pal_uuid_isp_imv = 23692,
     ia_pal_uuid_isp_ifd_pipe_1_3 = 55223,
     ia_pal_uuid_isp_ifd_pipe_long_1_3 = 52982,
     ia_pal_uuid_isp_ifd_pipe_short_smth_1_3 = 49695,
