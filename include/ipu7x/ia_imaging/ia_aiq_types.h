@@ -283,7 +283,7 @@ typedef enum
     ia_aiq_bracket_mode_hdr  = (1U << 1U),   /*!< High Dynamic Range bracketing used. */
     ia_aiq_bracket_mode_ull_auto_switch = (1U << 2U),   /*!< 1C (0) 4C (1) auto switch indication. */
     ia_aiq_bracket_mode_shdr_ldr_switch = (1U << 3U),    /*!< shdr S and L (0) ldr long only (1) - for DOL */
-    ia_aiq_bracket_mode_vai_mode = (1U << 4U)    /*!< Vai mode enable (0) regular mode (1) Vai mode*/
+    ia_aiq_bracket_mode_vai_mode = (1U << 4U) /*!< Video AI mode enable (0) regular mode (1) currently BNR, used to be VAI*/
 } ia_aiq_bracket_mode;
 
 /*!
